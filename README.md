@@ -11,7 +11,6 @@ You can:
 - Put a reminder.
 - Delete a reminder for a task.
 </br>
-</br>
-</br>
+
 
 > Inspired by: [Yash Bari](https://github.com/Yashbari01)
